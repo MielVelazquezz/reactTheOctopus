@@ -8,7 +8,6 @@ import React from 'react';
 // PÁGINAS
 import Home from '../src/Pages/Home';
 import Contact from '../src/Pages/Contact';
-import Map from '../src/Pages/Map';
 import About from '../src/Pages/About';
 import Team from '../src/Pages/Team'
 import Policy from '../src/Pages/Policy';
@@ -43,7 +42,6 @@ function App() {
           {/* PÁGINAS  */}
           <Route exact path="/" element={<Home />} />
           <Route path="/Contact" element={<Contact />} />
-          <Route path="/Map" element={<Map />} />
           <Route path="/About" element={<About />} />
           <Route path="/Team" element={<Team />}></Route>
           <Route path="/Policy" element={<Policy />}></Route>
