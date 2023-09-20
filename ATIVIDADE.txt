@@ -1,0 +1,15 @@
+-header contem o nav com TheOctopus (link) -> *colocar icons*
+
+-main conterá a lista de produtos, sendo eles cards 
+-> (são doze - chapeus e mochilas)
+-> cada produto será uma rota
+
+
+-footer
+-> (equipe, sobre, politica, fale conosco -> rotas)
+
+início -> home
+
+sobre nós -> equipe, sobre, política
+
+fale conosco -> contato (redes sociais)
